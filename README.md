@@ -1,2 +1,2 @@
-# FunfamentosJS_React
-Curso de UDemy Fundamenos JS para trabajar con React
+# FundamentosJS_React
+Curso de UDemy Fundamentos JS para trabajar con React
